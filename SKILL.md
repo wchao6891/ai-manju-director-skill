@@ -12,7 +12,7 @@ description: AI 漫剧与动态视觉短剧的工业化导演、剪辑节奏规�
 > - 设计具体构图、跨季镜头感演进（广角/长焦/前景纵深）、18 大高转化视觉套路与原片 5fps 冲击帧公式 → [02-shot-visual-grammar-library.md](./references/02-shot-visual-grammar-library.md)
 > - 规避 AI 穿帮、执行 A/B/C 三级算力预算、调用 22 条实测 AI 原生避坑工艺与 6 大高频翻车质检防线 → [03-ai-native-craft-and-anti-artifact-playbook.md](./references/03-ai-native-craft-and-anti-artifact-playbook.md)
 > - 直接套用 4 锚点卡、11 列分镜表、10 套 T2I / 8 套 I2V 提示词公式、后期指令与台词洗稿规则 → [04-prompt-and-storyboard-templates.md](./references/04-prompt-and-storyboard-templates.md)
-> - 按场景/技法直查全剧 1–14 季（`s01`–`s05`）60+ 标杆原片高光索引 → [05-indexed-case-library.md](./references/05-indexed-case-library.md)
+> - 按场景/技法直查全剧 1–14 季（`s01`–`s05`）标杆原片高光索引（含全部 97 张内置精选拼图 `assets/sheets/` 与 6 组 5fps 原片微拆解 `assets/raw-5fps/`，支持直读看图参照） → [05-indexed-case-library.md](./references/05-indexed-case-library.md)
 
 ---
 
